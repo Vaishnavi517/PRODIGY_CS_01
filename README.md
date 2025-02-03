@@ -5,9 +5,13 @@ This Python program implements the Caesar Cipher algorithm, a simple and well-kn
 
 ### Features
 Encrypt a message using a specified shift value.
+
 Decrypt a message using the same shift value.
+
 Handle both uppercase and lowercase letters.
+
 Ignore non-alphabetic characters.
+
 ### Requirements
 Python 3.x
 ### Installation
