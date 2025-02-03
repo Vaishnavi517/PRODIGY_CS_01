@@ -17,18 +17,6 @@ Python 3.x
 ### Installation
 Ensure you have Python 3.x installed on your machine.
 Navigate to the project directory.
-### Usage
-Open a terminal or command prompt.
-
-Run the program using the following command:
-
-bash
-
-Verify
-Run
-Copy code
-python caesar_cipher.py
-Follow the prompts to enter your message and shift value.
 
 ### Example
 plaintext
