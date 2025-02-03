@@ -18,21 +18,11 @@ Python 3.x
 Ensure you have Python 3.x installed on your machine.
 Navigate to the project directory.
 
-### Example
-plaintext
+## Example
 
-Verify
-Run
-Copy code
-Welcome to the Caesar Cipher Program!
-Please choose an option:
-1. Encrypt a message
-2. Decrypt a message
-Enter your choice (1 or 2): 1
-Enter the message to encrypt: Hello, World!
-Enter the shift value: 3
-Encrypted message: Khoor, Zruog!
-### Contact
+ ![Screenshot (1)](https://github.com/user-attachments/assets/e9d58e6d-2c19-4e16-b583-67885b8906c2)
+ 
+### contact
 For any questions or feedback, please reach out to [vaishnavii540@gmail.com].
 
 
